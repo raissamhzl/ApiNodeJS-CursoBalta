@@ -18,16 +18,16 @@ Curso em andamento pelo balta.io
 * CRUD REST
 - [x] Rotas
 - [x] Controllers
-- [ ] MongoDb Setup
-- [ ] Mongooose
-- [ ] Models
-- [ ] Criando um Produto
-- [ ] Listando os Produtos
+- [x] MongoDb Setup
+- [x] Mongooose
+- [x] Models
+- [x] Criando um Produto
+- [x] Listando os Produtos
 - [ ] Listando um Produto pelo slug
 - [ ] Listando um Produto pelo Id
 - [ ] Listando os Produtos de uma tag
-- [ ] Atualizando um produto
-- [ ] Excluindo um produto
+- [x] Atualizando um produto
+- [x] Excluindo um produto
 - [ ] Validações
 - [ ] Repositórios
 - [ ] Async/Await
